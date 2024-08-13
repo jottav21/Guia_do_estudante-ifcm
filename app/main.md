@@ -1,3 +1,0 @@
-# GUIA DO ESTUDANTE #
-
-## Tutorias ##
